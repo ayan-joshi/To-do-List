@@ -15,3 +15,10 @@ A simple and interactive to-do list web application that allows users to create,
 - HTML
 - CSS
 - JavaScript
+
+
+## Screenshots
+This are some of the screenshots from the working of the web app.
+![Screenshot 2023-05-23 002652](https://github.com/ayan-joshi/to-do-list/assets/96243602/b566bf51-cd86-4363-9d02-22b072dbb0f8)
+![Screenshot 2023-05-23 002726](https://github.com/ayan-joshi/to-do-list/assets/96243602/1aa31a2c-7a1e-4175-a529-8419a7dc58d8)
+
