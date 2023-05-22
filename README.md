@@ -26,3 +26,6 @@ This explains that we can add mutiple to-do-list in the app.
 This explains once we completed one of our work then we can just click the tick button to mark it as completed.
 ![Screenshot 2023-05-23 002726](https://github.com/ayan-joshi/to-do-list/assets/96243602/1aa31a2c-7a1e-4175-a529-8419a7dc58d8)
 
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue in the GitHub repository.
+
